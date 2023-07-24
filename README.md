@@ -3,11 +3,12 @@
 This is a simple calculator application built using HTML, CSS, and JavaScript. The application provides a user interface for performing basic arithmetic calculations, including addition, subtraction, multiplication, and division.
 
 <h2>Features</h2>
-Users can perform basic arithmetic operations: addition, subtraction, multiplication, and division.
-The calculator supports negative numbers and decimal numbers.
-Users can use keyboard input in addition to button clicks to perform calculations.
-The application has a responsive design and can adapt to various screen sizes.
-
+<ul>
+  <li>Users can perform basic arithmetic operations: addition, subtraction, multiplication, and division.</li>
+  <li>The calculator supports negative numbers and decimal numbers.</li>
+  <li>Users can use keyboard input in addition to button clicks to perform calculations.</li>
+  <li>The application has a responsive design and can adapt to various screen sizes.</li>
+</ul>
 <h2>How to Use</h2>
 <p>1. Clone the repository or download the source code to your local machine.</p>
 <p>2. Open the index.html file in your web browser.</p>
