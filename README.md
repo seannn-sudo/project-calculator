@@ -1,5 +1,5 @@
-Calculator Application
-
+**Calculator Application
+**
 This is a simple calculator application built using HTML, CSS, and JavaScript. The application provides a user interface for performing basic arithmetic calculations, including addition, subtraction, multiplication, and division.
 
 Features
