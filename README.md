@@ -1,7 +1,7 @@
 <h1>Calculator Application</h1>
 
 This is a simple calculator application built using HTML, CSS, and JavaScript. The application provides a user interface for performing basic arithmetic calculations, including addition, subtraction, multiplication, and division.
-<h2><a href ="https://seannn-sudo.github.io/project-calculator/" target=_blank>Live Demo</a></h2>
+<h2><a href ="https://seannn-sudo.github.io/project-calculator/" target="_blank">Live Demo</a></h2>
 <h2>Features</h2>
 <ul>
   <li>Users can perform basic arithmetic operations: addition, subtraction, multiplication, and division.</li>
