@@ -9,22 +9,24 @@ Users can use keyboard input in addition to button clicks to perform calculation
 The application has a responsive design and can adapt to various screen sizes.
 
 <h2>How to Use</h2>
-Clone the repository or download the source code to your local machine.
-Open the index.html file in your web browser.
-The calculator interface will be displayed on the screen.
-You can use the mouse to click on the buttons to input numbers and operators.
-Alternatively, you can use the keyboard for input. The keyboard input is as follows:
-'0' to '9': Enter the corresponding digits.
-'+': Addition
-'-': Subtraction
-'*': Multiplication
-'/': Division
-'.': Decimal point
-'Enter': Equals '='
-'Backspace': Clear 'C'
-'Escape': Clear all 'AC'
-The current expression is displayed on the top, and the result is shown below.
-To perform a calculation, click the '=' button or press the 'Enter' key.
+1. Clone the repository or download the source code to your local machine.
+2. Open the index.html file in your web browser.
+3. The calculator interface will be displayed on the screen.
+4. You can use the mouse to click on the buttons to input numbers and operators.
+5. Alternatively, you can use the keyboard for input. The keyboard input is as follows:
+<ul>
+  <li>'0' to '9': Enter the corresponding digits.</li>
+  <li>'+': Addition</li>
+  <li>'-': Subtraction</li>
+  <li>'*': Multiplication</li>
+  <li>'/': Division</li>
+  <li>'.': Decimal point</li>
+  <li>'Enter': Equals '='</li>
+  <li>'Backspace': Clear 'C'</li>
+  <li>'Escape': Clear all 'AC'</li>
+</ul>
+6. The current expression is displayed on the top, and the result is shown below.
+7. To perform a calculation, click the '=' button or press the 'Enter' key.
 
 <h2>Limitation</h2>
 The calculator has a maximum precision of 10 decimal places for the result.
